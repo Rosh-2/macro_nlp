@@ -1,2 +1,3 @@
 # Macro_NLP
 The project is about processing user input sentence that contain regular expression i.e email addressess programmatically using NLP. The goal is to take sentence entered by the user, identify the embedded mail and separate or extract them from them the rest of the text with the help of Gradio Interface. The ouput shows both the extracted emails and demonstration of how the extraction was performed.
+Example: Please send your application to our email address: firstname.lastname@example.com or You can reach me at my email address, email@example.com
